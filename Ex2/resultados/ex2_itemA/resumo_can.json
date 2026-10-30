@@ -1,0 +1,28 @@
+{
+  "total_mensagens": 150,
+  "hz_por_sinal": 10.0,
+  "periodo_alvo_ms": 100.0,
+  "sinais": {
+    "velocidade": {
+      "id": "0x100",
+      "mensagens": 50,
+      "intervalo_rx_medio_ms": 100.00628775510205,
+      "jitter_intervalo_rx_ms": 0.41561405744755675
+    },
+    "rpm": {
+      "id": "0x101",
+      "mensagens": 50,
+      "intervalo_rx_medio_ms": 100.04943673469388,
+      "jitter_intervalo_rx_ms": 1.6253887412810546
+    },
+    "temperatura": {
+      "id": "0x102",
+      "mensagens": 50,
+      "intervalo_rx_medio_ms": 100.05263469387754,
+      "jitter_intervalo_rx_ms": 1.7791511476958206
+    }
+  },
+  "atraso_software_medio_ms": 1.2016600000000002,
+  "atraso_software_p95_ms": 2.10661,
+  "descricao": "Tempos do software/IPC/VirtualBus; não são latência de CAN físico."
+}

@@ -1,0 +1,9 @@
+{
+  "frames_fim_servidor": 320,
+  "frames_decodificados": 320,
+  "datagramas_unicos_recebidos": 5850,
+  "datagramas_duplicados_recebidos": 0,
+  "frames_incompletos_expirados": 0,
+  "invalidos": 0,
+  "rcvbuf_bytes": 4194304
+}

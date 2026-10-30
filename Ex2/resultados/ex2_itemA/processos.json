@@ -1,0 +1,7 @@
+{
+  "pid_publicador": 15396,
+  "pid_assinante": 17428,
+  "ponte": "multiprocessing.Queue entre gateways de VirtualBus locais",
+  "interface": "virtual",
+  "processos_distintos": true
+}
